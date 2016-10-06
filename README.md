@@ -7,15 +7,22 @@ https://www.coursera.org/learn/practical-machine-learning/home/welcome
 
 The respitory contains four parts:
 
-*Part1: Codes for Quiz 2
+*Part1: Quiz 2
 
 Code: Quiz2.Rmd
 
 Report: Quiz2.pdf
 
-*Part2: Codes for Quiz 3
+*Part2: Quiz 3
 
 Code: Quiz3.Rmd
 
 Report: Quiz3.pdf
+
+*Part 3: Quiz 4
+
+Code: Quiz4.Rmd
+
+Report: Quiz4.pdf
+
 
