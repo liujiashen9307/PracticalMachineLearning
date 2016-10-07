@@ -25,4 +25,12 @@ Code: Quiz4.Rmd
 
 Report: Quiz4.pdf
 
+*Part 4: Final Project
+
+Code: Final_Project.Rmd
+
+Report: Final_Project.pdf
+
+Html: Final_Project.html
+
 
